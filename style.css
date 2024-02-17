@@ -1,0 +1,10 @@
+*{
+    background-color: "aquamarine";
+}
+.img{
+    height: 5%;
+    border-radius: .05%;
+    object-fit: "cover";
+    border-width: 1px;
+    border-color: "pink";
+}
